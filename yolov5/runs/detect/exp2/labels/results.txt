@@ -1,0 +1,754 @@
+chair 2024-09-30 15:40:29
+person 2024-09-30 15:40:29
+person 2024-09-30 15:40:29
+the number of person is: 2
+the number of chair is: 1
+
+person 2024-09-30 15:40:29
+person 2024-09-30 15:40:29
+the number of person is: 2
+
+chair 2024-09-30 15:40:29
+person 2024-09-30 15:40:29
+person 2024-09-30 15:40:29
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:29
+person 2024-09-30 15:40:29
+person 2024-09-30 15:40:29
+the number of person is: 2
+the number of chair is: 1
+
+person 2024-09-30 15:40:29
+person 2024-09-30 15:40:29
+the number of person is: 2
+
+person 2024-09-30 15:40:30
+person 2024-09-30 15:40:30
+the number of person is: 2
+
+person 2024-09-30 15:40:30
+person 2024-09-30 15:40:30
+the number of person is: 2
+
+person 2024-09-30 15:40:30
+person 2024-09-30 15:40:30
+the number of person is: 2
+
+person 2024-09-30 15:40:31
+chair 2024-09-30 15:40:31
+person 2024-09-30 15:40:31
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:32
+person 2024-09-30 15:40:32
+the number of person is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:32
+person 2024-09-30 15:40:32
+the number of person is: 1
+the number of chair is: 1
+
+cell phone 2024-09-30 15:40:32
+chair 2024-09-30 15:40:32
+person 2024-09-30 15:40:32
+the number of person is: 1
+the number of chair is: 1
+the number of cell phone is: 1
+
+chair 2024-09-30 15:40:32
+person 2024-09-30 15:40:32
+person 2024-09-30 15:40:32
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:32
+person 2024-09-30 15:40:32
+person 2024-09-30 15:40:32
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:32
+person 2024-09-30 15:40:32
+person 2024-09-30 15:40:32
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:32
+person 2024-09-30 15:40:32
+person 2024-09-30 15:40:32
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:33
+person 2024-09-30 15:40:33
+person 2024-09-30 15:40:33
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:33
+person 2024-09-30 15:40:33
+person 2024-09-30 15:40:33
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:33
+person 2024-09-30 15:40:33
+the number of person is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:33
+person 2024-09-30 15:40:33
+the number of person is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:33
+person 2024-09-30 15:40:33
+the number of person is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:33
+person 2024-09-30 15:40:33
+person 2024-09-30 15:40:33
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:33
+person 2024-09-30 15:40:33
+person 2024-09-30 15:40:33
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:34
+person 2024-09-30 15:40:34
+person 2024-09-30 15:40:34
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:34
+person 2024-09-30 15:40:34
+the number of person is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:34
+person 2024-09-30 15:40:34
+the number of person is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:34
+person 2024-09-30 15:40:34
+the number of person is: 1
+the number of chair is: 1
+
+cup 2024-09-30 15:40:34
+chair 2024-09-30 15:40:34
+person 2024-09-30 15:40:34
+the number of person is: 1
+the number of cup is: 1
+the number of chair is: 1
+
+person 2024-09-30 15:40:34
+person 2024-09-30 15:40:34
+the number of person is: 2
+
+cup 2024-09-30 15:40:34
+chair 2024-09-30 15:40:34
+person 2024-09-30 15:40:34
+person 2024-09-30 15:40:34
+the number of person is: 2
+the number of cup is: 1
+the number of chair is: 1
+
+cup 2024-09-30 15:40:35
+chair 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+the number of person is: 2
+the number of cup is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+bottle 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+bottle 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+the number of person is: 2
+the number of chair is: 1
+
+cup 2024-09-30 15:40:35
+chair 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+the number of person is: 2
+the number of cup is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:35
+bottle 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:35
+bottle 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+person 2024-09-30 15:40:35
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:36
+bottle 2024-09-30 15:40:36
+person 2024-09-30 15:40:36
+person 2024-09-30 15:40:36
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:36
+bottle 2024-09-30 15:40:36
+person 2024-09-30 15:40:36
+person 2024-09-30 15:40:36
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:36
+bottle 2024-09-30 15:40:36
+person 2024-09-30 15:40:36
+person 2024-09-30 15:40:36
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:36
+bottle 2024-09-30 15:40:36
+person 2024-09-30 15:40:36
+person 2024-09-30 15:40:36
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+bottle 2024-09-30 15:40:36
+chair 2024-09-30 15:40:36
+person 2024-09-30 15:40:36
+bottle 2024-09-30 15:40:36
+person 2024-09-30 15:40:36
+the number of person is: 2
+the number of bottle is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:36
+person 2024-09-30 15:40:36
+person 2024-09-30 15:40:36
+bottle 2024-09-30 15:40:36
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+bottle 2024-09-30 15:40:37
+chair 2024-09-30 15:40:37
+person 2024-09-30 15:40:37
+the number of person is: 1
+the number of bottle is: 1
+the number of chair is: 1
+
+bottle 2024-09-30 15:40:37
+chair 2024-09-30 15:40:37
+person 2024-09-30 15:40:37
+the number of person is: 1
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:37
+person 2024-09-30 15:40:37
+bottle 2024-09-30 15:40:37
+person 2024-09-30 15:40:37
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+bottle 2024-09-30 15:40:37
+chair 2024-09-30 15:40:37
+person 2024-09-30 15:40:37
+person 2024-09-30 15:40:37
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+person 2024-09-30 15:40:37
+bottle 2024-09-30 15:40:37
+person 2024-09-30 15:40:37
+the number of person is: 2
+the number of bottle is: 1
+
+cell phone 2024-09-30 15:40:37
+bottle 2024-09-30 15:40:37
+person 2024-09-30 15:40:37
+bottle 2024-09-30 15:40:37
+person 2024-09-30 15:40:37
+the number of person is: 2
+the number of bottle is: 2
+the number of cell phone is: 1
+
+person 2024-09-30 15:40:38
+bottle 2024-09-30 15:40:38
+person 2024-09-30 15:40:38
+the number of person is: 2
+the number of bottle is: 1
+
+person 2024-09-30 15:40:38
+bottle 2024-09-30 15:40:38
+person 2024-09-30 15:40:38
+the number of person is: 2
+the number of bottle is: 1
+
+chair 2024-09-30 15:40:38
+person 2024-09-30 15:40:38
+bottle 2024-09-30 15:40:38
+person 2024-09-30 15:40:38
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:38
+person 2024-09-30 15:40:38
+bottle 2024-09-30 15:40:38
+person 2024-09-30 15:40:38
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+person 2024-09-30 15:40:38
+person 2024-09-30 15:40:38
+chair 2024-09-30 15:40:38
+bottle 2024-09-30 15:40:38
+person 2024-09-30 15:40:38
+the number of person is: 3
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:38
+bottle 2024-09-30 15:40:38
+person 2024-09-30 15:40:38
+the number of person is: 1
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:39
+bottle 2024-09-30 15:40:39
+person 2024-09-30 15:40:39
+the number of person is: 1
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:39
+person 2024-09-30 15:40:39
+bottle 2024-09-30 15:40:39
+the number of person is: 1
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:39
+bottle 2024-09-30 15:40:39
+person 2024-09-30 15:40:39
+the number of person is: 1
+the number of bottle is: 1
+the number of chair is: 1
+
+person 2024-09-30 15:40:39
+chair 2024-09-30 15:40:39
+bottle 2024-09-30 15:40:39
+person 2024-09-30 15:40:39
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+person 2024-09-30 15:40:39
+chair 2024-09-30 15:40:39
+bottle 2024-09-30 15:40:39
+person 2024-09-30 15:40:39
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:39
+person 2024-09-30 15:40:39
+person 2024-09-30 15:40:39
+bottle 2024-09-30 15:40:39
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+person 2024-09-30 15:40:39
+chair 2024-09-30 15:40:39
+person 2024-09-30 15:40:39
+bottle 2024-09-30 15:40:39
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+person 2024-09-30 15:40:39
+chair 2024-09-30 15:40:39
+person 2024-09-30 15:40:39
+bottle 2024-09-30 15:40:40
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:40
+person 2024-09-30 15:40:40
+person 2024-09-30 15:40:40
+bottle 2024-09-30 15:40:40
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:40
+person 2024-09-30 15:40:40
+person 2024-09-30 15:40:40
+bottle 2024-09-30 15:40:40
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:40
+person 2024-09-30 15:40:40
+person 2024-09-30 15:40:40
+bottle 2024-09-30 15:40:40
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:40
+person 2024-09-30 15:40:40
+person 2024-09-30 15:40:40
+bottle 2024-09-30 15:40:40
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:40
+person 2024-09-30 15:40:40
+person 2024-09-30 15:40:40
+bottle 2024-09-30 15:40:40
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:41
+person 2024-09-30 15:40:41
+person 2024-09-30 15:40:41
+bottle 2024-09-30 15:40:41
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:41
+person 2024-09-30 15:40:41
+person 2024-09-30 15:40:41
+bottle 2024-09-30 15:40:41
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:41
+person 2024-09-30 15:40:41
+person 2024-09-30 15:40:41
+bottle 2024-09-30 15:40:41
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:41
+person 2024-09-30 15:40:41
+person 2024-09-30 15:40:41
+bottle 2024-09-30 15:40:41
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:41
+person 2024-09-30 15:40:41
+person 2024-09-30 15:40:41
+bottle 2024-09-30 15:40:41
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:41
+person 2024-09-30 15:40:41
+person 2024-09-30 15:40:41
+bottle 2024-09-30 15:40:41
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+person 2024-09-30 15:40:41
+chair 2024-09-30 15:40:41
+person 2024-09-30 15:40:42
+bottle 2024-09-30 15:40:42
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:42
+person 2024-09-30 15:40:42
+person 2024-09-30 15:40:42
+bottle 2024-09-30 15:40:42
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+person 2024-09-30 15:40:42
+chair 2024-09-30 15:40:42
+person 2024-09-30 15:40:42
+bottle 2024-09-30 15:40:42
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:42
+person 2024-09-30 15:40:42
+person 2024-09-30 15:40:42
+bottle 2024-09-30 15:40:42
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:42
+person 2024-09-30 15:40:42
+person 2024-09-30 15:40:42
+bottle 2024-09-30 15:40:42
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+chair 2024-09-30 15:40:42
+person 2024-09-30 15:40:42
+person 2024-09-30 15:40:42
+bottle 2024-09-30 15:40:42
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+bottle 2024-09-30 15:40:48
+person 2024-09-30 15:40:48
+the number of person is: 1
+the number of bottle is: 1
+
+person 2024-09-30 15:40:48
+bottle 2024-09-30 15:40:48
+person 2024-09-30 15:40:48
+the number of person is: 2
+the number of bottle is: 1
+
+chair 2024-09-30 15:40:48
+cell phone 2024-09-30 15:40:48
+bottle 2024-09-30 15:40:48
+person 2024-09-30 15:40:48
+person 2024-09-30 15:40:48
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+the number of cell phone is: 1
+
+cell phone 2024-09-30 15:40:48
+chair 2024-09-30 15:40:48
+person 2024-09-30 15:40:48
+person 2024-09-30 15:40:48
+the number of person is: 2
+the number of chair is: 1
+the number of cell phone is: 1
+
+chair 2024-09-30 15:40:48
+person 2024-09-30 15:40:48
+person 2024-09-30 15:40:48
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:48
+person 2024-09-30 15:40:48
+person 2024-09-30 15:40:48
+the number of person is: 2
+the number of chair is: 1
+
+chair 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+the number of person is: 2
+the number of chair is: 1
+
+cell phone 2024-09-30 15:40:49
+chair 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+the number of person is: 2
+the number of chair is: 1
+the number of cell phone is: 1
+
+chair 2024-09-30 15:40:49
+bottle 2024-09-30 15:40:49
+cell phone 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+the number of cell phone is: 1
+
+chair 2024-09-30 15:40:49
+bottle 2024-09-30 15:40:49
+cell phone 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+the number of cell phone is: 1
+
+chair 2024-09-30 15:40:49
+cell phone 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+bottle 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+the number of cell phone is: 1
+
+cell phone 2024-09-30 15:40:49
+chair 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+bottle 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+bottle 2024-09-30 15:40:49
+the number of person is: 3
+the number of bottle is: 2
+the number of chair is: 1
+the number of cell phone is: 1
+
+chair 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+bottle 2024-09-30 15:40:49
+person 2024-09-30 15:40:49
+the number of person is: 2
+the number of bottle is: 1
+the number of chair is: 1
+
+bottle 2024-09-30 15:40:50
+person 2024-09-30 15:40:50
+the number of person is: 1
+the number of bottle is: 1
+
+bottle 2024-09-30 15:40:50
+bottle 2024-09-30 15:40:50
+person 2024-09-30 15:40:50
+the number of person is: 1
+the number of bottle is: 2
+
+bottle 2024-09-30 15:40:50
+cell phone 2024-09-30 15:40:50
+person 2024-09-30 15:40:50
+bottle 2024-09-30 15:40:50
+the number of person is: 1
+the number of bottle is: 2
+the number of cell phone is: 1
+
+bottle 2024-09-30 15:40:50
+cell phone 2024-09-30 15:40:50
+person 2024-09-30 15:40:50
+bottle 2024-09-30 15:40:50
+the number of person is: 1
+the number of bottle is: 2
+the number of cell phone is: 1
+
+person 2024-09-30 15:40:50
+person 2024-09-30 15:40:50
+bottle 2024-09-30 15:40:50
+the number of person is: 2
+the number of bottle is: 1
+
+person 2024-09-30 15:40:50
+bottle 2024-09-30 15:40:50
+person 2024-09-30 15:40:50
+the number of person is: 2
+the number of bottle is: 1
+
+person 2024-09-30 15:40:50
+bottle 2024-09-30 15:40:50
+person 2024-09-30 15:40:50
+the number of person is: 2
+the number of bottle is: 1
+
+person 2024-09-30 15:40:51
+person 2024-09-30 15:40:51
+bottle 2024-09-30 15:40:51
+the number of person is: 2
+the number of bottle is: 1
+
+person 2024-09-30 15:40:51
+person 2024-09-30 15:40:51
+bottle 2024-09-30 15:40:51
+the number of person is: 2
+the number of bottle is: 1
+
+person 2024-09-30 15:40:51
+person 2024-09-30 15:40:51
+bottle 2024-09-30 15:40:51
+the number of person is: 2
+the number of bottle is: 1
+
+person 2024-09-30 15:40:51
+person 2024-09-30 15:40:51
+bottle 2024-09-30 15:40:51
+the number of person is: 2
+the number of bottle is: 1
+
+person 2024-09-30 15:40:51
+person 2024-09-30 15:40:51
+bottle 2024-09-30 15:40:51
+the number of person is: 2
+the number of bottle is: 1
+
+person 2024-09-30 15:40:51
+person 2024-09-30 15:40:51
+bottle 2024-09-30 15:40:51
+the number of person is: 2
+the number of bottle is: 1
+
+person 2024-09-30 15:40:51
+bottle 2024-09-30 15:40:51
+the number of person is: 1
+the number of bottle is: 1
+
+person 2024-09-30 15:40:51
+bottle 2024-09-30 15:40:51
+the number of person is: 1
+the number of bottle is: 1
+
+person 2024-09-30 15:40:52
+bottle 2024-09-30 15:40:52
+the number of person is: 1
+the number of bottle is: 1
+
