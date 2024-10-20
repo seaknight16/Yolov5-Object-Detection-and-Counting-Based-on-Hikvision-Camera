@@ -1,5 +1,5 @@
 {
-	"source": "0",
+	"source": "rtsp://admin:123456@192.168.0.147/Streaming/Channels/1",
 	"weights": "D:/PythonProjects/intern_dev/yolov5/models/yolov5x.pt",
 	"device": "0",
 	"imgsz": 640,
